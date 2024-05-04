@@ -14,6 +14,8 @@ import com.example.myapplication2.Common.Common;
 
 public class highlightActivity extends AppCompatActivity {
 
+    // Sanjay commit
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
